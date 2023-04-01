@@ -1,7 +1,7 @@
 services:
-  app-csv:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    volumes:
+  app-csv: #nombre cualquiera del servicio
+    build: #indicamos que se va a construir una imagen
+      context: . #directorio donde se encuentra el archivo Dockerfile
+      dockerfile: Dockerfile  #nombre del archivo Dockerfile
+    volumes: 
       - .:/app
