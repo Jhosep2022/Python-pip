@@ -1,3 +1,8 @@
-# Python-pip
+# Game Proyect
 
-proyecto en progreso de python
+pARA CIIRER EL JUEGO DEBES SEGUIR LAS SIGUIENTES INSTRUCCIONES EN LA TERMINAL:
+
+```SH
+cd game
+python3 main.py
+```
