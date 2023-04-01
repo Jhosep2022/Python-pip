@@ -1,3 +1,3 @@
 # Python-pip
 
-proyecto en progreso
+proyecto en progreso de python
